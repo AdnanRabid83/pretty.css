@@ -1,0 +1,29 @@
+.blog{
+    background-color: aquamarine;
+    border: 15px solid gray;
+    border-radius: 15px;
+    margin: 20px 30px 40px 30px;
+    padding: 20px;
+    width: 50% ;
+    height: 200px auto;
+    margin: 30px auto;
+}
+.Name{
+    color: tomato;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.blog_title{
+    text-align: center;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.blog p{
+    color: #5061C5;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    display: inline;
+}
